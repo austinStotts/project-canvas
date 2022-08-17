@@ -1,0 +1,11 @@
+.canvas-wrapper {
+    border: 2px solid hotpink;
+    display: inline-block;
+    width: 514px;
+    height: 514px;
+}
+
+.canvas {
+    border: 1px dashed darkblue;
+    background-color: rgb(110, 110, 110);
+}
